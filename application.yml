@@ -1,3 +1,4 @@
 bet:
     test:  test-message
 message: 'test-message 3'
+message2: 'another test message'
